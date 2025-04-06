@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>WM Viral - Impulsione seu Instagram</title>
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap" rel="stylesheet">
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+      font-family: 'Poppins', sans-serif;
+    }
+
+    body {
+      background-color: #f8f9fa;
+      color: #333;
+    }
+
+    header {
+      background: linear-gradient(90deg, #7b2cbf, #5a189a);
+      color: white;
+      padding: 60px 20px;
+      text-align: center;
+    }
+
+    header h1 {
+      font-size: 3rem;
+      margin-bottom: 10px;
+    }
+
+    header p {
+      font-size: 1.2rem;
+    }
+
+    .container {
+      padding: 50px 20px;
+      max-width: 1100px;
+      margin: auto;
+    }
+
+    .section {
+      margin-bottom: 40px;
+      background: white;
+      padding: 30px;
+      border-radius: 15px;
+      box-shadow: 0 2px 20px rgba(0, 0, 0, 0.05);
+    }
+
+    .section h2 {
+      color: #5a189a;
+      font-size: 2rem;
+      margin-bottom: 15px;
+    }
+
+    ul li {
+      margin: 10px 0;
+    }
+
+    .btn-whatsapp {
+      display: inline-block;
+      background: #25D366;
+      color: white;
+      padding: 15px 30px;
+      border-radius: 50px;
+      text-decoration: none;
+      font-weight: bold;
+      font-size: 1.1rem;
+      margin-top: 20px;
+      transition: 0.3s;
+    }
+
+    .btn-whatsapp:hover {
+      background: #1ebc59;
+    }
+
+    footer {
+      text-align: center;
+      padding: 30px 10px;
+      background: #212529;
+      color: #ccc;
+      font-size: 0.9rem;
+      margin-top: 40px;
+    }
+
+    @media (max-width: 768px) {
+      header h1 {
+        font-size: 2rem;
+      }
+
+      .section h2 {
+        font-size: 1.5rem;
+      }
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>WM Viral</h1>
+    <p>Aumente seus seguidores, curtidas e alcance de forma segura e rápida!</p>
+    <a class="btn-whatsapp" href="https://wa.me/5515981732994" target="_blank">Comprar pelo WhatsApp</a>
+  </header>
+
+  <div class="container">
+    <div class="section">
+      <h2>✨ Nossos Pacotes</h2>
+      <ul>
+        <li>100 Seguidores - R$ 4,99</li>
+        <li>500 Seguidores - R$ 9,99</li>
+        <li>1000 Seguidores - R$ 14,99</li>
+        <li>100 Curtidas - R$ 3,99</li>
+        <li>500 Curtidas - R$ 7,99</li>
+      </ul>
+    </div>
+
+    <div class="section">
+      <h2>✅ Por que escolher a WM Viral?</h2>
+      <ul>
+        <li>🌟 Entrega imediata</li>
+        <li>🔐 Seguidores reais, sem precisar de senha</li>
+        <li>📞 Suporte via WhatsApp</li>
+        <li>📲 Perfeito para negócios, influencers e artistas</li>
+      </ul>
+    </div>
+
+    <div class="section">
+      <h2>❓ Dúvidas Frequentes</h2>
+      <ul>
+        <li><strong>Os seguidores são reais?</strong> Sim, entregamos apenas seguidores brasileiros reais.</li>
+        <li><strong>Precisa da minha senha?</strong> Não! Nunca pedimos sua senha.</li>
+        <li><strong>Quanto tempo leva para entregar?</strong> De 5 a 15 minutos após a confirmação.</li>
+        <li><strong>Tem garantia?</strong> Sim, todos os pacotes têm garantia de reposição por 7 dias.</li>
+      </ul>
+    </div>
+  </div>
+
+  <footer>
+    © 2025 WM Viral - Todos os direitos reservados. | Atendimento via WhatsApp
+  </footer>
+</body>
+</html>
